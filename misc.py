@@ -8,7 +8,7 @@ def chose_work_name() -> str:
     """
     Exact names from chat (future)
 
-    :return:
+    :return: one name from names
     """
     return random.choice(names)
 

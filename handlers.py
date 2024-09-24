@@ -9,8 +9,8 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from misc import send_message
 
 
-day = 'fri'  # mon, tue, wed, thu, fri, sat, sun
-hour = '08'
+day = 'mon'  # mon, tue, wed, thu, fri, sat, sun
+hour = '17'
 minute = '00'
 
 user_router = Router()
